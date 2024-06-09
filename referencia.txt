@@ -1,0 +1,10 @@
+git init
+git clone https://github.com/freirinho/Brasileir-o_2017.git
+git pull
+
+
+To do:
+Replicar tabela de posições no excel utilizando formulas de procx/procv, Concat de texto
+
+1 dentro das tabelas procurar novas informações.
+
